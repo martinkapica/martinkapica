@@ -6,27 +6,22 @@
 
 ---
 
-
 ## Current Focus
 
-My current focus is on understanding how robotic and humanoid systems are structured, connected and controlled, while building on my background in electronics and automation.
-
-I am building on my experience in electronics and automation while expanding my knowledge into robotics, software and intelligent systems.
+My current focus is on understanding how robotic and humanoid systems are structured, connected and controlled, while building on my experience in electronics and automation and expanding my knowledge of robotics, software and intelligent systems.
 
 ## Current Learning & Development
 
-My learning is focused on building a broad and solid foundation for understanding robotic systems as a whole.
-
+My current learning is focused on building a solid foundation in robotics and understanding robotic systems as a whole.
 
 ### Robotics & Humanoid Systems
 
 * Robotics fundamentals
 * Humanoid systems
 * Kinematics, motion and control
-* Sensors and actuators
+* Sensor and actuator integration
 * Robot system architecture
 * ROS 2
-
 
 ### Perception & Intelligent Systems
 
@@ -35,14 +30,12 @@ My learning is focused on building a broad and solid foundation for understandin
 * Sensor data processing
 * AI fundamentals for robotics
 
-
 ### Software & Development
 
 * Python
 * Linux
 * Git & GitHub
 * Software development fundamentals
-
 
 ## Connect
 
