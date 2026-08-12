@@ -39,6 +39,14 @@ My current learning is focused on building a solid foundation in robotics and un
 
 [View my Technical Learning repository →](https://github.com/martinkapica/technical-learning)
 
+## Current Project
+
+### Humanoid Head
+
+A modular humanoid head project currently in the planning phase, developed as a practical platform for exploring robotics and humanoid systems.
+
+[View the Humanoid Head project →](https://github.com/martinkapica/humanoid-head)
+
 ## Connect
 
 [LinkedIn](https://www.linkedin.com/in/martin-k-02664923a)
